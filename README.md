@@ -1,2 +1,2 @@
 # HorizonDrive
-This will be a website for internet computing class.
+Car dealership website made for Internet Computing class
